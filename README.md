@@ -1,4 +1,4 @@
-# Hi, I'm Vaishnavi 👋
+# Hi, I'm Vaishnavi 
 
 BSc Computer Science graduate and aspiring Data Analyst based in pune. I like building practical projects that solve real problems with data. I'm looking for an internship or entry-level role where I can learn and contribute.
 
