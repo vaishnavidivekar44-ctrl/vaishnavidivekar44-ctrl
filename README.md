@@ -1,6 +1,6 @@
 # Hi, I'm Vaishnavi 
 
-BSc Computer Science graduate and aspiring Data Analyst based in pune. I like building practical projects that solve real problems with data. I'm looking for an internship or entry-level role where I can learn and contribute.
+BSc Computer Science graduate and aspiring Data Analyst based in pune.I like building practical projects that solve real problems with data. I'm looking for an internship or entry-level role where I can learn and contribute.
 
 ## Skills
 - **Languages:** Java, Python, R
@@ -10,7 +10,7 @@ BSc Computer Science graduate and aspiring Data Analyst based in pune. I like bu
 
 ## Projects
 
-### Marathi Live Fact-Checker (https://github.com/vaishnavidivekar44-ctrl/YOUR-REPO-NAME) (Ongoing)
+### [Marathi Live Fact-Checker](https://github.com/vaishnavidivekar44-ctrl/marathi-factcheck) (Ongoing)
 A live fact-checker for Marathi claims written in Devanagari, Roman Marathi, or Marathi-English mixed text. A code-mixed query-rewriting layer feeds live web retrieval and entailment-based verification. No training dataset is needed. Very little work exists on this for Marathi compared to English.
 
 - **Tools:** Python, NLP, Streamlit, sentence-transformers (LaBSE), Hugging Face Transformers
