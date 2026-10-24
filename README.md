@@ -10,10 +10,11 @@ BSc Computer Science graduate and aspiring Data Analyst based in pune. I like bu
 
 ## Projects
 
-### Marathi Fake and Real News Detection (Ongoing)
-A live project that classifies Marathi and  Marathi English mix language news as fake or real, a problem with very little existing work compared to English.
-- **Tools:** Python, NLP, Machine Learning
-- **Status:** In progress. Code and results will be uploaded here soon.
+### Marathi Live Fact-Checker (https://github.com/vaishnavidivekar44-ctrl/YOUR-REPO-NAME) (Ongoing)
+A live fact-checker for Marathi claims written in Devanagari, Roman Marathi, or Marathi-English mixed text. A code-mixed query-rewriting layer feeds live web retrieval and entailment-based verification. No training dataset is needed. Very little work exists on this for Marathi compared to English.
+
+- **Tools:** Python, NLP, Streamlit, sentence-transformers (LaBSE), Hugging Face Transformers
+- **Status:** pilot evaluation done; improving the verdict step
 
 ### Smart Face Recognition
 Final-year BSc Computer Science project that marks student attendance automatically by recognising faces, removing manual roll calls.
