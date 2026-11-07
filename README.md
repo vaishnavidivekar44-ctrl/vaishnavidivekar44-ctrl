@@ -10,7 +10,7 @@ BSc Computer Science graduate and aspiring Data Analyst based in pune.I like bui
 
 ## Projects
 
-### [Marathi Live Fact-Checker](https://github.com/vaishnavidivekar44-ctrl/marathi-factcheck) (Ongoing)
+### [Marathi Live Fact-Checker](https://github.com/vaishnavidivekar44-ctrl/marathi-factchecker)
 A live fact-checker for Marathi claims written in Devanagari, Roman Marathi, or Marathi-English mixed text. A code-mixed query-rewriting layer feeds live web retrieval and entailment-based verification. No training dataset is needed. Very little work exists on this for Marathi compared to English.
 
 - **Tools:** Python, NLP, Streamlit, sentence-transformers (LaBSE), Hugging Face Transformers
