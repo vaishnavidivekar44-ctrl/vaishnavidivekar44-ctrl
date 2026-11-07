@@ -9,6 +9,8 @@ BSc Computer Science graduate and aspiring Data Analyst based in pune.I like bui
 - **Currently learning:** Natural Language Processing (NLP), Machine Learning
 
 ## Projects
+### Insurance Policy Renewal & Churn Analytics (In Progress)
+SQL, Power BI. Analysing insurance policy and customer data using SQL to measure renewal rates, churn drivers and at-risk policies, and building a Power BI dashboard to visualise churn by policy type, region and customer segment. Role: sole developer, covering data cleaning, SQL analysis and dashboard design.
 
 ### [Marathi Live Fact-Checker](https://github.com/vaishnavidivekar44-ctrl/marathi-factchecker)
 A live fact-checker for Marathi claims written in Devanagari, Roman Marathi, or Marathi-English mixed text. A code-mixed query-rewriting layer feeds live web retrieval and entailment-based verification. No training dataset is needed. Very little work exists on this for Marathi compared to English.
